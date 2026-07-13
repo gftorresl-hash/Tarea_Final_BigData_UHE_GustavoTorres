@@ -1,0 +1,9 @@
+# ============================================================
+# Requirements - AI Student Impact Analysis App
+# ============================================================
+
+streamlit
+pandas
+scikit-learn
+matplotlib
+seaborn
